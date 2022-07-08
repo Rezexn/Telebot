@@ -1,11 +1,10 @@
 {
     "name": "rezexn/telebot",
-    "authors": [
-        {
-            "name": "Rez",
-            "email": "rezazin78@gmail.com"
-        }
-    ],
+    "authors": [{
+        "name": "Rez",
+        "email": "rezazin78@gmail.com"
+    }],
     "require": {
+        "php": "^7.0"
     }
 }
